@@ -2,7 +2,7 @@
 
 # log size of the ring
 LOGSIZE = 8
-SIZE = 1<<LOGSIZE
+SIZE = 1 << LOGSIZE
 
 # successors list size (to continue operating on node failures)
 N_SUCCESSORS = 4
